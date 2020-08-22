@@ -6,11 +6,11 @@
     - Use the 'Lato' font family at 18px throughout the body of the document
     - cover background with the "map-bg.jpg" image in the images directory. 
 */
-
+/* Change the body to more reflect the directions using the background-image:  and the background-position: center cover shorthand  */
 body {
   font-family: "Lato", sans-serif;
   font-size: 18px;
-  background: url("../images/map-bg.jpg") no-repeat center/cover fixed;
+  background: url("../images/map-bg.jpg") center/cover;
 }
 
 nav {
