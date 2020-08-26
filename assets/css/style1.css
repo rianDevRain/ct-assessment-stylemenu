@@ -71,7 +71,7 @@ section {
 adda CSS ruleset targeting the name of each menu item to accomplish the following: -Set
   the font size to 20px - Make the font bold */
 
-.details {
+#menu dt {
   font-size: 20px;
   font-weight: bold;
 }
